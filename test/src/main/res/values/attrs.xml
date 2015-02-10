@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomTheme">
+        <attr name="textColor" format="reference"/>
+        <attr name="backgroundColor" format="reference"/>
+    </declare-styleable>
+
+    <attr name="colorFirst" format="reference"/>
+
+</resources>
